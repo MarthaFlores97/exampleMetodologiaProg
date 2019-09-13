@@ -1,0 +1,11 @@
+C:\Users\Danny\Documents\9°Semestre\MetodologiaDeLaProgramacion\exampleMetodologiaProg\bin\Debug\netcoreapp2.2\exampleMetodologiaProg.deps.json
+C:\Users\Danny\Documents\9°Semestre\MetodologiaDeLaProgramacion\exampleMetodologiaProg\bin\Debug\netcoreapp2.2\exampleMetodologiaProg.runtimeconfig.json
+C:\Users\Danny\Documents\9°Semestre\MetodologiaDeLaProgramacion\exampleMetodologiaProg\bin\Debug\netcoreapp2.2\exampleMetodologiaProg.runtimeconfig.dev.json
+C:\Users\Danny\Documents\9°Semestre\MetodologiaDeLaProgramacion\exampleMetodologiaProg\bin\Debug\netcoreapp2.2\exampleMetodologiaProg.dll
+C:\Users\Danny\Documents\9°Semestre\MetodologiaDeLaProgramacion\exampleMetodologiaProg\bin\Debug\netcoreapp2.2\exampleMetodologiaProg.pdb
+C:\Users\Danny\Documents\9°Semestre\MetodologiaDeLaProgramacion\exampleMetodologiaProg\obj\Debug\netcoreapp2.2\exampleMetodologiaProg.csprojAssemblyReference.cache
+C:\Users\Danny\Documents\9°Semestre\MetodologiaDeLaProgramacion\exampleMetodologiaProg\obj\Debug\netcoreapp2.2\exampleMetodologiaProg.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Documents\9°Semestre\MetodologiaDeLaProgramacion\exampleMetodologiaProg\obj\Debug\netcoreapp2.2\exampleMetodologiaProg.AssemblyInfoInputs.cache
+C:\Users\Danny\Documents\9°Semestre\MetodologiaDeLaProgramacion\exampleMetodologiaProg\obj\Debug\netcoreapp2.2\exampleMetodologiaProg.AssemblyInfo.cs
+C:\Users\Danny\Documents\9°Semestre\MetodologiaDeLaProgramacion\exampleMetodologiaProg\obj\Debug\netcoreapp2.2\exampleMetodologiaProg.dll
+C:\Users\Danny\Documents\9°Semestre\MetodologiaDeLaProgramacion\exampleMetodologiaProg\obj\Debug\netcoreapp2.2\exampleMetodologiaProg.pdb

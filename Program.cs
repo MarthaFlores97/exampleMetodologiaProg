@@ -6,7 +6,8 @@ namespace exampleMetodologiaProg
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int suma = 2 + 2;
+            Console.WriteLine("La suma de 2 + 2 = "+suma);
         }
     }
 }
